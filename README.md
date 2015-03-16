@@ -12,6 +12,8 @@ into internal, private interfaces of AWSCLI in a way that is:
 * Not well-tested
 * Almost guaranteed to break in the future
 
+You really shouldn't use this library.  Really.
+
 Usage
 -----
 
